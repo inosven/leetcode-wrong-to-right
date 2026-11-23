@@ -15,11 +15,11 @@
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 回溯 | 1 | 11-19 A | [backtracking](solutions/0040-combination-sum-ii/backtracking.py) |
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | 数组 | 1 | 11-17 A | [shrink-boundaries](solutions/0059-spiral-matrix-ii/shrink-boundaries.py) |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | 二叉树 | 1 | 11-17 B | [recursive-slicing](solutions/0106-construct-binary-tree-from-inorder-and-postorder-traversal/recursive-slicing.py) |
-| 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | 回溯 | 1 | 11-19 B | [backtracking](solutions/0131-palindrome-partitioning/backtracking.py) |
+| 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | 回溯 | 2 | 11-19 B, 11-21 B | [backtracking](solutions/0131-palindrome-partitioning/backtracking.py) |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | 贪心 | 1 | 11-19 A | [greedy](solutions/0134-gas-station/greedy.py) |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | 链表 | 1 | 11-17 B | [floyd-fast-slow](solutions/0142-linked-list-cycle-ii/floyd-fast-slow.py) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | 栈与队列 | 2 | 11-14 B, 11-19 B | [stack](solutions/0150-evaluate-reverse-polish-notation/stack.py) |
-| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 字符串 | 1 | 11-19 B | [reverse-twice](solutions/0151-reverse-words-in-a-string/reverse-twice.py) |
+| 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | 字符串 | 2 | 11-19 B, 11-21 B | [reverse-twice](solutions/0151-reverse-words-in-a-string/reverse-twice.py) |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | 数组 | 1 | 11-19 A | [sliding-window](solutions/0209-minimum-size-subarray-sum/sliding-window.py) |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) | 栈与队列 | 6 | 11-17 C, 11-19 C, 11-20 B | [two-stack](solutions/0224-basic-calculator/two-stack.py), [sign-stack](solutions/0224-basic-calculator/sign-stack.py) |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | 二叉树 | 1 | 11-17 B | [recursive-postorder](solutions/0236-lowest-common-ancestor-of-a-binary-tree/recursive-postorder.py) |
@@ -30,6 +30,7 @@
 | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) | 哈希表 | 2 | 11-14 A, 11-19 A | [hashmap-pair-sums](solutions/0454-4sum-ii/hashmap-pair-sums.py) |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 单调栈 | 3 | 11-14 B, 11-19 B, 11-19 A | [monotonic-stack](solutions/0496-next-greater-element-i/monotonic-stack.py) |
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | 单调栈 | 1 | 11-19 A | [monotonic-stack-two-pass](solutions/0503-next-greater-element-ii/monotonic-stack-two-pass.py) |
-| 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | 图论 | 1 | 11-19 B | [dfs-stack](solutions/0695-max-area-of-island/dfs-stack.py), [dfs-recursive](solutions/0695-max-area-of-island/dfs-recursive.py) |
+| 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | 图论 | 2 | 11-19 B, 11-21 B | [dfs-stack](solutions/0695-max-area-of-island/dfs-stack.py), [dfs-recursive](solutions/0695-max-area-of-island/dfs-recursive.py), [dfs-recursive-inplace](solutions/0695-max-area-of-island/dfs-recursive-inplace.py) |
+| 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 单调栈 | 2 | 11-14 C, 11-21 A | [monotonic-stack](solutions/0739-daily-temperatures/monotonic-stack.py) |
 | 772 | [Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) (Premium) | 栈与队列 | 4 | 11-17 C, 11-19 C, 11-20 B | [two-stack](solutions/0772-basic-calculator-iii/two-stack.py) |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | 动态规划 | 2 | 11-17 C, 11-19 A | [dp-2d](solutions/1143-longest-common-subsequence/dp-2d.py) |
