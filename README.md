@@ -17,7 +17,7 @@ Result: A = solved independently · B = right idea, but with bugs · C = no idea
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | Binary Tree | 1 | 11-17 B | [recursive-slicing](solutions/0106-construct-binary-tree-from-inorder-and-postorder-traversal/recursive-slicing.py) |
 | 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Backtracking | 2 | 11-19 B, 11-21 B | [backtracking](solutions/0131-palindrome-partitioning/backtracking.py) |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | Greedy | 1 | 11-19 A | [greedy](solutions/0134-gas-station/greedy.py) |
-| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Linked List | 1 | 11-17 B | [floyd-fast-slow](solutions/0142-linked-list-cycle-ii/floyd-fast-slow.py) |
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Linked List | 2 | 11-17 B, 11-23 B | [floyd-fast-slow](solutions/0142-linked-list-cycle-ii/floyd-fast-slow.py) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Stack & Queue | 2 | 11-14 B, 11-19 B | [stack](solutions/0150-evaluate-reverse-polish-notation/stack.py) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | String | 2 | 11-19 B, 11-21 B | [reverse-twice](solutions/0151-reverse-words-in-a-string/reverse-twice.py) |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Array | 1 | 11-19 A | [sliding-window](solutions/0209-minimum-size-subarray-sum/sliding-window.py) |
