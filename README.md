@@ -9,7 +9,7 @@ Result: A = solved independently · B = right idea, but with bugs · C = no idea
 
 | # | Problem | Topic | Attempts | History | Solution |
 |---|---|---|---|---|---|
-| 15 | [3Sum](https://leetcode.com/problems/3sum/) | Two Pointers | 1 | 11-17 B | [sort-two-pointers](solutions/0015-3sum/sort-two-pointers.py) |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | Two Pointers | 2 | 11-17 B, 11-25 A | [sort-two-pointers](solutions/0015-3sum/sort-two-pointers.py) |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | Two Pointers | 1 | 11-17 A | [sort-two-pointers](solutions/0018-4sum/sort-two-pointers.py) |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Linked List | 2 | 11-14 A, 11-19 A | [fast-slow-pointers](solutions/0019-remove-nth-node-from-end-of-list/fast-slow-pointers.py) |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Backtracking | 1 | 11-19 A | [backtracking](solutions/0040-combination-sum-ii/backtracking.py) |
