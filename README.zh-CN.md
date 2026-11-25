@@ -13,6 +13,7 @@
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | 双指针 | 1 | 11-17 A | [sort-two-pointers](solutions/0018-4sum/sort-two-pointers.py) |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | 链表 | 2 | 11-14 A, 11-19 A | [fast-slow-pointers](solutions/0019-remove-nth-node-from-end-of-list/fast-slow-pointers.py) |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | 回溯 | 1 | 11-19 A | [backtracking](solutions/0040-combination-sum-ii/backtracking.py) |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | 单调栈 | 1 | 11-24 B | [monotonic-stack](solutions/0042-trapping-rain-water/monotonic-stack.py), [two-pointers](solutions/0042-trapping-rain-water/two-pointers.py) |
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | 数组 | 1 | 11-17 A | [shrink-boundaries](solutions/0059-spiral-matrix-ii/shrink-boundaries.py) |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | 二叉树 | 1 | 11-17 B | [recursive-slicing](solutions/0106-construct-binary-tree-from-inorder-and-postorder-traversal/recursive-slicing.py) |
 | 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | 回溯 | 2 | 11-19 B, 11-21 B | [backtracking](solutions/0131-palindrome-partitioning/backtracking.py) |
